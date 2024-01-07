@@ -25,15 +25,15 @@ To make the most out of the Lab, we recommend the participants to explore the li
 
 ## During the lab
 
-### Schedule
+### We will cover
 
-| Start | End | Session Title | Description |
-|-------|-----|---------------|-------------|
-| |  | Data Modality | We demonstrate how synthcity can generate tabular data with diverse modalities, including static data, regular and irregular time series, data with censoring, multi-source data, and composite data. | 
-|  |  | Fairness| We show how synthetic data can promote ML fairness by (1) augmenting minority classes with conditional generation and (2) removing bias via causal generation. |
-|  | | Privacy | We introduce privacy-preserving synthetic data generators that facilitates sharing of sensitive data. We will cover differential-privacy based methods as well as methods that defend against specific threat models.|
-| | | Transfer | We show how to alleviate data scarcity by augmenting a small dataset using information learned from other related datasets in a transfer learning style.|
-| |  | Further Engagement | We discuss ways of further engaging with the application and development of synthcity.|
+| Session Title | Description |
+|---------------|-------------|
+| Data Modality | We demonstrate how synthcity can generate tabular data with diverse modalities, including static data, regular and irregular time series, data with censoring, multi-source data, and composite data. | 
+| Fairness| We show how synthetic data can promote ML fairness by (1) augmenting minority classes with conditional generation and (2) removing bias via causal generation. |
+| Privacy | We introduce privacy-preserving synthetic data generators that facilitates sharing of sensitive data. We will cover differential-privacy based methods as well as methods that defend against specific threat models.|
+| Transfer | We show how to alleviate data scarcity by augmenting a small dataset using information learned from other related datasets in a transfer learning style.|
+| Further Engagement | We discuss ways of further engaging with the application and development of synthcity.|
 
 
 The Interactive tutorials are available [here](https://colab.research.google.com/drive/1y-rOUA2hxreeTdPOeFIBoytS1FiSujU6?usp=sharing).
