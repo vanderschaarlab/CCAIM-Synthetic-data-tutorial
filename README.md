@@ -33,7 +33,7 @@ To make the most out of the Lab, we recommend the participants to explore the li
 | Further Engagement | We discuss ways of further engaging with the application and development of synthcity.|
 
 
-The Interactive tutorials are available [here](https://colab.research.google.com/drive/1y-rOUA2hxreeTdPOeFIBoytS1FiSujU6?usp=sharing).
+The Interactive tutorial for the session is available [here](https://colab.research.google.com/drive/1GsqTtxXMKc1LWNI_RQNSJ6JthUL30eoA?usp=sharing).
 ## After the lab
 
 Download and use the library - join the development. 
