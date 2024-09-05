@@ -1,16 +1,13 @@
-# NLDL-Synthetic-data-tutorial
+# Synthetic-data-tutorial
 
-Welcome to the hands-on part of the NLDL tutorial for Innovative Uses of Synthetic Data! 
+Welcome to the hands-on part of the tutorial for Innovative Uses of Synthetic Data! 
 In this repository you will find materials required to complete the Lab.
-
-The Lab will start on Monday, 8 January 2023, 10:00 CET.
-It is a three hour session split into two. With half being a practical session, which this repo serves and half talk by Prof Mihaela van der Schaar. The session will flip between practical tutorial and talk as  each different aspect of synthetic data use is covered.
 
 ## Before the lab
 
 We will run the hands-on session using Google Colab. As a benefit, there is no need to pre-install any library or download any dataset.
 
-For the physical participants, please bring with you **a fully charged laptop** for the session and bear in mind that there may not be enough power sockets for everyone at the venue. 
+For the in-person participants, please bring with you **a fully charged laptop** for the session and bear in mind that there may not be enough power sockets for everyone at the venue. 
 Any available sockets are allocated on a first come, first served basis. 
 
 The Lab is based on the open-source Python library [synthcity](https://github.com/vanderschaarlab/synthcity). 
